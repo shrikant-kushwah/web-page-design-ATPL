@@ -4,7 +4,7 @@
 # Home Page
 <img width="960" alt="atpl" src="https://github.com/shrikant-kushwah/web-page-design-ATPL/assets/96473205/9d03cca9-878e-4ae5-8c34-cebac4b50534">
 
-# Cards
+# Card Page
 <img width="960" alt="atpl1" src="https://github.com/shrikant-kushwah/web-page-design-ATPL/assets/96473205/16efb651-08c0-42b5-99e7-a76914ec0bc3">
 
 # Booking Page
