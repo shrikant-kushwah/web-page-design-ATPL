@@ -23,15 +23,15 @@ const FooterSection = () => {
             </select>
           </div>
           <div className='flex items-center -mt-12'>
-            <img className='w-28 md:w-36' src={APPLE_STORE} alt="apple-icon" />
-            <img className='w-28 md:w-36 mx-2' src={GOOGLE_PLAY} alt="google-icon" />
+            <img className='w-28 md:w-36 cursor-pointer' src={APPLE_STORE} alt="apple-icon" />
+            <img className='w-28 md:w-36 mx-2 cursor-pointer' src={GOOGLE_PLAY} alt="google-icon" />
           </div>
           <ul className='flex items-center gap-6'>
-            <li><FaTwitter size={22} /></li>
-            <li><FaFacebookF size={20} /></li>
-            <li><FaInstagram size={23} /></li>
-            <li><FaLinkedinIn size={24} /></li>
-            <li><LiaYoutube size={26} /></li>
+            <li className='cursor-pointer'><FaTwitter size={22} /></li>
+            <li className='cursor-pointer'><FaFacebookF size={20} /></li>
+            <li className='cursor-pointer'><FaInstagram size={23} /></li>
+            <li className='cursor-pointer'><FaLinkedinIn size={24} /></li>
+            <li className='cursor-pointer'><LiaYoutube size={26} /></li>
           </ul>
         </div>
         <div className='w-auto flex flex-wrap p-16 md:p-0'>
@@ -54,6 +54,7 @@ const FooterSection = () => {
       </div>
       <div className='flex flex-wrap justify-between px-8 md:px-16 text-gray-600 text-[10px] md:text-[14px] font-light -mt-4 mb-8'>
         <p>Copyright Calendly 2024</p>
+        <p className='cursor-pointer'>shrikant20052001@gmail.com</p>
         <p>Privacy / Terms and Conditions</p>
       </div>
     </>
