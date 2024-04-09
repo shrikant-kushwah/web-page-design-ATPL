@@ -1,5 +1,22 @@
 # Getting Started with Create React App
 
+## SCREENSHOTS
+# Home Page
+<img width="960" alt="atpl" src="https://github.com/shrikant-kushwah/web-page-design-ATPL/assets/96473205/9d03cca9-878e-4ae5-8c34-cebac4b50534">
+
+# Cards
+<img width="960" alt="atpl1" src="https://github.com/shrikant-kushwah/web-page-design-ATPL/assets/96473205/16efb651-08c0-42b5-99e7-a76914ec0bc3">
+
+# Booking Page
+<img width="960" alt="atpl2" src="https://github.com/shrikant-kushwah/web-page-design-ATPL/assets/96473205/fd104ac8-52a8-41fe-ad05-3417f5b5a0c9">
+
+# Footer Page
+<img width="960" alt="atpl3" src="https://github.com/shrikant-kushwah/web-page-design-ATPL/assets/96473205/ba07d5a4-a7ce-4f30-9748-e9b79e0f31eb">
+
+## Mobile View
+<img width="960" alt="atpl4" src="https://github.com/shrikant-kushwah/web-page-design-ATPL/assets/96473205/8ed43f32-937b-43eb-b28b-c1f5d85cd587">
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
